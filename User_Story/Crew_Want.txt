@@ -1,0 +1,15 @@
+create my profile
+
+login with id and password
+
+view my own profile details
+
+view flight schedule
+
+cancel assigned flight
+
+watch previous flight history
+
+request admin to change information
+
+change password

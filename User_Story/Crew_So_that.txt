@@ -1,0 +1,15 @@
+I can enroll and request admin for approval
+
+I can access my dashboard and assigned task
+
+I can see the information I submitted
+
+I can see my schedule and prepare for it
+
+I can request to remove a flight if I needed
+
+I can track/review my past flights and activities
+
+I can correct my wrong / missing information
+
+I can secure my account
