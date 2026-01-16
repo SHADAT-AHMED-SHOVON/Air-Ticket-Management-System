@@ -1,0 +1,19 @@
+. An otp is sent to user’s mobile and confirm mail to the registered    email
+
+. An otd sent to Employee mobile and confirm main to the registered email
+
+. an otp is sent to Crew mobile and confirm mail to the registered email
+
+. Login succesfull
+
+. also i can edit profile
+
+. Show a popup window ask for confirmation
+
+. user must search location
+
+. user must input old password,new password twice and given notification success
+
+. show other ticket but not this ticket
+
+. show the list table of sales and profit

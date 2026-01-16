@@ -1,0 +1,19 @@
+. I can enroll my self in the System
+
+. i can enroll a employee in the system
+
+. i can enroll a crew in the system
+
+. The system can authenticate and trust me
+
+. i can see all profile information
+
+. The crew member can not access the system
+
+. I can add new location
+
+. my account more secure
+
+. ticket does not appear in search
+
+. ticket does not appear in search
