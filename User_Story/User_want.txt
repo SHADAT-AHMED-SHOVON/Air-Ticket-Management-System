@@ -1,0 +1,15 @@
+Create a new user
+
+Profile Login with my username and password
+
+View my own profile details
+
+Search for flights
+
+Book a flight
+
+Manage my booking
+
+Make a payment
+
+Log Out

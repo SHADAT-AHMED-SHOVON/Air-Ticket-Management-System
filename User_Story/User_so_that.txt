@@ -1,0 +1,15 @@
+I can enroll myself in the system
+
+The system can authenticate me and I can trust it
+
+I can see a list that contains information provided in the registration form
+
+I can find available flights by specifying origin, destination, and travel dates.
+
+I can select a flight, input passenger details, and reserve a seat.
+
+I can view details of my upcoming and past flights.
+
+I can pay securely for my flight using various payment methods.
+
+I can securely exit the system.
