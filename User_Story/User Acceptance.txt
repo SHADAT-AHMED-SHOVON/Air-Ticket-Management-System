@@ -1,0 +1,15 @@
+An OTP is sent to user's mobile and confirmation mail to the registered email
+
+After successful login, the data associated to the user should be accessible
+
+Information list table window including edit profile button
+
+A list of matching flights is displayed with fare, time, and stopover details.
+
+A booking confirmation page appears, showing the PNR/reference number and a summary of the reservation.
+
+A list of bookings is shown, each with options to "View Details," "Cancel," or "Modify.”
+
+A successful transaction message is displayed, and an invoice is emailed to the user.
+
+A LOG OUT button is available on the main Passenger.
