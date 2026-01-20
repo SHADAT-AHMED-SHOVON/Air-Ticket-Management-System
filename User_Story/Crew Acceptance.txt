@@ -1,0 +1,15 @@
+Admin will check information and confirm the account
+
+System will authenticate my ID and password and allow access.
+
+System will display all my profile details clearly.
+
+System will display my complete upcoming flight schedule accurately.
+
+System will send a cancellation request to admin for approval.
+
+System will show a list of all my previously completed flights.
+
+System will submit my change request to admin for review.
+
+System will update the password after validating old and new passwords.
